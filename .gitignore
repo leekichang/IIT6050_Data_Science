@@ -5,6 +5,9 @@ __pycache__/
 *.pdf
 # C extensions
 *.so
+*.png
+*datasets/
+*.zip
 
 # Distribution / packaging
 .Python
